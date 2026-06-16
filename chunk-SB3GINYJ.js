@@ -1,1 +1,0 @@
-import{R as a,la as o}from"./chunk-B4WZNTRI.js";var t=class i{_isLoading=o(!1);isLoading=this._isLoading.asReadonly();start(){this._isLoading.set(!0)}stop(){this._isLoading.set(!1)}static \u0275fac=function(e){return new(e||i)};static \u0275prov=a({token:i,factory:i.\u0275fac,providedIn:"root"})};export{t as a};

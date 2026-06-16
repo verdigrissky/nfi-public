@@ -1,1 +1,0 @@
-import{Lb as a,Ya as t,qb as i,rb as m}from"./chunk-B4WZNTRI.js";var o=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["admin-view"]],decls:2,vars:0,template:function(e,d){e&1&&(i(0,"p"),a(1,"admin works!"),m())},encapsulation:2})};export{o as Admin};
