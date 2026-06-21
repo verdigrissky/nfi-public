@@ -1,0 +1,1 @@
+import{$a as s,Rb as o,ub as n,vb as i}from"./chunk-5IJJHCRB.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["user-settings"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),o(1,"settings works!"),i())},encapsulation:2})};export{r as UserSettings};

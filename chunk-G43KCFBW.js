@@ -1,0 +1,1 @@
+import{$a as e,Rb as s,ub as n,vb as a}from"./chunk-5IJJHCRB.js";var i=class o{static \u0275fac=function(t){return new(t||o)};static \u0275cmp=e({type:o,selectors:[["app-logout"]],decls:2,vars:0,template:function(t,m){t&1&&(n(0,"p"),s(1,"logout works!"),a())},encapsulation:2})};export{i as Logout};
