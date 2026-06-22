@@ -1,1 +1,0 @@
-import{$a as n,Rb as o,ub as t,vb as i}from"./chunk-5IJJHCRB.js";var r=class a{static \u0275fac=function(e){return new(e||a)};static \u0275cmp=n({type:a,selectors:[["app-calendar-view"]],decls:2,vars:0,template:function(e,c){e&1&&(t(0,"p"),o(1,"calendar-view works!"),i())},encapsulation:2})};export{r as CalendarView};
