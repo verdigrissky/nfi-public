@@ -1,1 +1,0 @@
-import{Vb as r,cb as t,yb as o,zb as n}from"./chunk-7KKWJ3BI.js";var s=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=t({type:i,selectors:[["profile-view"]],decls:2,vars:0,template:function(e,l){e&1&&(o(0,"p"),r(1,"profile-view works!"),n())},encapsulation:2})};export{s as ProfileView};

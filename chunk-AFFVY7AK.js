@@ -1,1 +1,0 @@
-import{Vb as m,cb as n,yb as a,zb as i}from"./chunk-7KKWJ3BI.js";var o=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["game-view"]],decls:2,vars:0,template:function(e,c){e&1&&(a(0,"p"),m(1,"game-view works!"),i())},encapsulation:2})};export{o as GameView};

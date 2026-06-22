@@ -1,0 +1,1 @@
+import{Ab as n,Bb as i,Xb as o,db as s}from"./chunk-4LMTEDXW.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["user-settings"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),o(1,"settings works!"),i())},encapsulation:2})};export{r as UserSettings};
