@@ -1,0 +1,1 @@
+import{U as i,oa as a}from"./chunk-4LMTEDXW.js";var t,e=class o{_isLoading=a(!1);isLoading=this._isLoading.asReadonly();constructor(){t=this}start(){this._isLoading.set(!0)}stop(){this._isLoading.set(!1)}static \u0275fac=function(s){return new(s||o)};static \u0275prov=i({token:o,factory:o.\u0275fac,providedIn:"root"})},g=()=>t.start(),p=()=>t.stop();export{e as a,g as b,p as c};
