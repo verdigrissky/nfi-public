@@ -1,0 +1,1 @@
+import{Ab as a,Wb as s,cb as e,zb as o}from"./chunk-26W3CXGM.js";var i=class t{static \u0275fac=function(n){return new(n||t)};static \u0275cmp=e({type:t,selectors:[["app-not-found"]],decls:2,vars:0,template:function(n,p){n&1&&(o(0,"p"),s(1,"not-found works!"),a())},encapsulation:2})};export{i as NotFound};
